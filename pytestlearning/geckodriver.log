@@ -1,0 +1,83 @@
+1618409082296	geckodriver	INFO	Listening on 127.0.0.1:51001
+1618409085315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\way2automation\\AppData\\Local\\Temp\\rust_mozprofilefjxzkO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618409092870	Marionette	INFO	Listening on port 51009
+1618409093402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618409093443	Marionette	ERROR	[15] No reply from Marionette:Register
+1618409096959	Marionette	INFO	Stopped listening on port 51009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618409100110	geckodriver	INFO	Listening on 127.0.0.1:51048
+1618409103127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\way2automation\\AppData\\Local\\Temp\\rust_mozprofileJLzL5a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618409110091	Marionette	INFO	Listening on port 51056
+1618409110640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618409110672	Marionette	ERROR	[15] No reply from Marionette:Register
+1618409113402	Marionette	INFO	Stopped listening on port 51056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618409115414	geckodriver	INFO	Listening on 127.0.0.1:51103
+1618409118456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\way2automation\\AppData\\Local\\Temp\\rust_mozprofile6FKxfT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618409125722	Marionette	INFO	Listening on port 51111
+1618409125988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618409126026	Marionette	ERROR	[15] No reply from Marionette:Register
+1618409129462	Marionette	INFO	Stopped listening on port 51111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648765190476	geckodriver	INFO	Listening on 127.0.0.1:52739
+1648765193528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52740" "-no-remote" "-profile" "C:\\Users\\Tarik\\AppData\\Local\\Temp\\rust_mozprofileKlz1Lc"
+1648765194629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tarik\\AppData\\Local\\Temp\\rust_mozprofileKlz1Lc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52740/devtools/browser/702f90bf-eb53-41b9-9789-f682e87ac850
+1648765203677	Marionette	INFO	Listening on port 52745
+1648765203879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4Jo4/yn/l/fr_FR/4zkcoGqQRrZ.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648765207840	Marionette	INFO	Stopped listening on port 52745
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tarik\AppData\Local\Temp\rust_mozprofileKlz1Lc\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648765214901	geckodriver	INFO	Listening on 127.0.0.1:52804
+1648765217938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52805" "-no-remote" "-profile" "C:\\Users\\Tarik\\AppData\\Local\\Temp\\rust_mozprofileNJnOpF"
+1648765218960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tarik\\AppData\\Local\\Temp\\rust_mozprofileNJnOpF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52805/devtools/browser/ec90ca75-db99-4529-a9cf-1984d31d421f
+1648765225876	Marionette	INFO	Listening on port 52810
+1648765225983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4Jo4/yn/l/fr_FR/4zkcoGqQRrZ.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648765228758	Marionette	INFO	Stopped listening on port 52810
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1648765238294	geckodriver	INFO	Listening on 127.0.0.1:52869
+1648765241342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52870" "-no-remote" "-profile" "C:\\Users\\Tarik\\AppData\\Local\\Temp\\rust_mozprofilePGqR9M"
+1648765242112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tarik\\AppData\\Local\\Temp\\rust_mozprofilePGqR9M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52870/devtools/browser/750dcc23-18cf-4ced-bf18-f1e38c0e6b78
+1648765247274	Marionette	INFO	Listening on port 52875
+1648765247739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4Jo4/yn/l/fr_FR/4zkcoGqQRrZ.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1648765251571	Marionette	INFO	Stopped listening on port 52875
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tarik\AppData\Local\Temp\rust_mozprofilePGqR9M\protections.sqlite
